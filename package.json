@@ -1,0 +1,13 @@
+{
+  "name": "bridgeway-ai",
+  "version": "1.0.0",
+  "description": "Bridge the gap between where you are and the job you want.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
